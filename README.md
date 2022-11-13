@@ -1,3 +1,3 @@
 # webpack-overview
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-ftbgzv)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/webpack-overview)
